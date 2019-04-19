@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\大三下\vr\homework1\hw1_starter\external_dependancies\include\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\大三下\vr\homework1\hw1_starter\main.cpp(266): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\大三下\vr\homework1\hw1_starter\main.cpp(267): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  VR-HW1.vcxproj -> D:\大三下\VR\homework1\HW1_starter\stage\..\VR-HW1.exe
+  已复制         1 个文件。
+  已复制         1 个文件。
+  已复制         1 个文件。
+  已复制         1 个文件。
